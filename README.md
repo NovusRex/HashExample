@@ -1,2 +1,4 @@
 # HashExample
-# Basic python hashing implementatikn via
+
+Basic python hashing implementation via hashlib
+
